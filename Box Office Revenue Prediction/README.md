@@ -6,10 +6,15 @@ This mini project is an exercise to reinforce what I've learned in chapter 2 of 
 * Transfer R data preparation knowledge to Python
 * Learn to build data transformation pipelines with sklearn's Pipeline
 
+## To do
+
+* Build univariate visualizations
+* Build bivariate visualizations
+
 ## Work log
 
 * 40 min + 30 min (started - July 22)
-* 30 min (July 23)
+* 3 * 30 min (July 23)
 
 ## References
 
