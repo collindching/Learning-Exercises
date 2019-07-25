@@ -1,15 +1,16 @@
-This mini project is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. I want to focus on building data transformation and prediction pipelines in Python. I'll be building a regression model for box office revenues using movie data from The Movie Database. 
+This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. I'll be building a regression model for box office revenues using movie data from The Movie Database. 
 
 ## Learning goals
 
-* Practice the ML workflow in Python
-* Transfer R data preparation knowledge to Python
-* Learn to build data transformation pipelines with sklearn's Pipeline
+* Practice Python ML workflow
+* Learn to build data transformation pipelines in sklearn
 
 ## To do
 
-* Engineer a couple features
-* Examine some of the categorical variables
+* They're actually lists of JSON
+* Extract one example
+
+* Toggle pipeline with GridSearchCV for primary language
 * Don't stress!
 
 ## Work log
@@ -18,6 +19,7 @@ This mini project is an exercise to reinforce what I've learned in chapter 2 of 
 * 30 min (July 22)
 * 3 * 30 min (July 23)
 * 15 min (July 24)
+* 4 * 30 min (July 25)
 
 ## References
 
