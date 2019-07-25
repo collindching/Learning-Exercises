@@ -8,13 +8,16 @@ This mini project is an exercise to reinforce what I've learned in chapter 2 of 
 
 ## To do
 
-* Build univariate visualizations
-* Build bivariate visualizations
+* Engineer a couple features
+* Examine some of the categorical variables
+* Don't stress!
 
 ## Work log
 
-* 40 min + 30 min (started - July 22)
+* 40 min (preliminary research)
+* 30 min (July 22)
 * 3 * 30 min (July 23)
+* 15 min (July 24)
 
 ## References
 
