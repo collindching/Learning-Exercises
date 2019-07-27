@@ -7,7 +7,8 @@ This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. 
 
 ## To do
 
-* They're actually lists of JSON
+* They're actually lists of JSON objects
+* Convert JSON into data
 * Extract one example
 
 * Toggle pipeline with GridSearchCV for primary language
