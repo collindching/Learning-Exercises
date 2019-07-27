@@ -10,7 +10,6 @@ This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. 
 * They're actually lists of JSON objects
 * Convert JSON into data
 * Extract one example
-
 * Toggle pipeline with GridSearchCV for primary language
 * Don't stress!
 
@@ -18,9 +17,16 @@ This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. 
 
 * 40 min (preliminary research)
 * 30 min (July 22)
-* 3 * 30 min (July 23)
+* 3x30 min (July 23)
 * 15 min (July 24)
-* 4 * 30 min (July 25)
+* 4x30 min (July 25)
+* 1x30 min, 2x40 min, 1x20 min (July 26)
+
+## Things learned
+
+* Apply with anonymous function
+* List comprehensions
+* Conditional expressions
 
 ## References
 
