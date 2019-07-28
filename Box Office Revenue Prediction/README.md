@@ -15,12 +15,13 @@ This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. 
 
 ## Work log
 
-* 40 min (preliminary research)
-* 30 min (July 22)
+* 1x40 min (preliminary research)
+* 1x30 min (July 22)
 * 3x30 min (July 23)
-* 15 min (July 24)
+* 1x15 min (July 24)
 * 4x30 min (July 25)
 * 1x30 min, 2x40 min, 1x20 min (July 26)
+* 1x30 min (July 27)
 
 ## Things learned
 
@@ -31,4 +32,5 @@ This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. 
 ## References
 
 * [Forecasting Movie Box Office Profitability](https://pdfs.semanticscholar.org/6d4f/1003fd164ffe30e2e45dd252715efecf9e61.pdf)
-
+* [ML Data Pipelines with Customs Transformers in Python](https://towardsdatascience.com/custom-transformers-and-ml-data-pipelines-with-python-20ea2a7adb65)
+* [Andrew Lukyanenko's Kaggle kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-model-interpretation)
