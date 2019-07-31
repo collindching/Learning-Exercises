@@ -7,11 +7,8 @@ This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. 
 
 ## To do
 
-* They're actually lists of JSON objects
-* Convert JSON into data
-* Extract one example
+* Visualize number of each movie genre
 * Toggle pipeline with GridSearchCV for primary language
-* Don't stress!
 
 ## Work log
 
@@ -22,6 +19,7 @@ This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. 
 * 4x30 min (July 25)
 * 1x30 min, 2x40 min, 1x20 min (July 26)
 * 1x30 min (July 27)
+* 2*60 min (July 30)
 
 ## Things learned
 
