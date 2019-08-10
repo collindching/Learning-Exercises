@@ -20,6 +20,7 @@ One of the key things I wanted to practice in this project was how to create pip
 * 4x60 min (Aug 6)
 * 2x60 min, 1x30 min (Aug 7)
 * 4x60 min (Aug 8)
+* 1x60 min, 2x30 min (Aug 9)
 
 ## Things learned
 
