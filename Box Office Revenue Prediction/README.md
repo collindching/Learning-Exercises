@@ -1,11 +1,13 @@
 This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. I'll be building a regression model for box office revenues using movie data from The Movie Database. 
 
-One of the key things I wanted to practice in this project was how to create pipelines using Scikit-Learn. This actually ended up taking a pretty long time to test code. The data preprocessing step actually felt more like programming and coding than machine learning, and I spent a large portion of my time debugging.
+One of the key things I wanted to practice in this project was how to process data using custom transformers and Scikit-Learn Pipelines. This actually ended up taking a pretty long time to test code. The data preprocessing step actually felt more like programming and coding than machine learning, and I spent a lot of time debugging. 
+
+This project ended up taking me much longer than I intended (for a practice exercise). Since I've done a majority of the processing, I'm going to shelve it for now. I'd love to come back in the future and try to finish this up though. 
 
 ## Learning goals
 
 * Practice Python ML workflow
-* Learn to build data transformation pipelines in sklearn
+* Learn to build data processing pipelines in Sklearn
 
 ## Work log
 
@@ -21,13 +23,20 @@ One of the key things I wanted to practice in this project was how to create pip
 * 2x60 min, 1x30 min (Aug 7)
 * 4x60 min (Aug 8)
 * 1x60 min, 2x30 min (Aug 9)
+* 1x60 min (Aug 14)
 
 ## Things learned
 
 * Apply with anonymous function
 * List comprehensions
 * Conditional expressions
-* Building Pipelines with Scikit-Learn
+* Building transformers and Pipelines with Scikit-Learn
+
+## Things to do better for next time
+
+* I spent a lot of time processing the data without really exploring it: make the data as easy as possible to explore
+* Constantly be thinking about questions you have for the data, how you want to explore
+* Be more creative with Pipeline usage
 
 ## References
 
