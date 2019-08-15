@@ -6,8 +6,8 @@ This project ended up taking me much longer than I intended (for a practice exer
 
 ## Learning goals
 
-* Practice Python ML workflow
-* Learn to build data processing pipelines in Sklearn
+* [x] Practice Python ML workflow
+* [x] Learn to build data processing pipelines in Sklearn
 
 ## Work log
 
