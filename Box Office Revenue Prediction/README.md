@@ -34,8 +34,8 @@ This project ended up taking me much longer than I intended (for a practice exer
 
 ## Things to do better for next time
 
-* I spent a lot of time processing the data without really exploring it: make the data as easy as possible to explore
-* Constantly be thinking about questions you have for the data, how you want to explore
+* I spent a lot of time processing the data but not exploring it; allocate more time to exploration
+* Separate the data preparation step from the data processing step -- this will eliminate confusion as you write more code
 * Be more creative with Pipeline usage
 
 ## References
