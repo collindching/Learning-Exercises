@@ -36,6 +36,7 @@ This project ended up taking me much longer than I intended (for a practice exer
 
 * I spent a lot of time processing the data but not exploring it; allocate more time to exploration
 * Separate the data preparation step from the data processing step -- this will eliminate confusion as you write more code
+* Analyze outliers with scatterplots, and decide whether to remove individual observations
 * Be more creative with Pipeline usage
 
 ## References
