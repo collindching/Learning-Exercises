@@ -7,7 +7,6 @@ This project ended up taking me much longer than I intended (for a practice exer
 ## Learning goals
 
 * [x] Practice Python ML workflow
-* [ ] Explore data and analyze outliers
 * [x] Learn to build data processing pipelines in Sklearn
 
 ## Work log
@@ -30,10 +29,12 @@ This project ended up taking me much longer than I intended (for a practice exer
 
 ## Things learned
 
+* Outlier analysis
+* Data cleaning (for exploration) vs. data preprocessing (for modeling)
+* Building transformers and Pipelines with Scikit-Learn
 * Apply with anonymous function
 * List comprehensions
 * Conditional expressions
-* Building transformers and Pipelines with Scikit-Learn
 
 ## Things to do better for next time
 
