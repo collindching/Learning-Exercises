@@ -6,7 +6,9 @@ These projects should require a smaller time commitment and research phase than 
 
 * **Box Office Revenue Prediction:** a regression project using data from The Movie Database 	
 	* Practicing ML workflow and data processing using custom transformers + Pipelines
+
 * **SF Gate Home Price Prediction:** regression project based on data scraped from SF Gate
 	* Practice workflow and create functions to make model training + evaluation quicker
+
 * **First Flask App:** tutorial on building an API (that records names) in Python using flask
 	* For future use in building my own fullstack ML app
