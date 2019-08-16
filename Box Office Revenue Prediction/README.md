@@ -24,6 +24,7 @@ This project ended up taking me much longer than I intended (for a practice exer
 * 4x60 min (Aug 8)
 * 1x60 min, 2x30 min (Aug 9)
 * 1x60 min (Aug 14)
+* 1x45 min (Aug 15)
 
 ## Things learned
 
