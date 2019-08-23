@@ -30,6 +30,7 @@ This project ended up taking me much longer than I intended (for a practice exer
 * 4x60 min, 1x45 min (Aug 19)
 * 2x60 min (Aug 20)
 * 6x30 min (Aug 21)
+* 3x60 min (Aug 22)
 
 ## Things learned
 
@@ -53,3 +54,4 @@ This project ended up taking me much longer than I intended (for a practice exer
 * [ML Data Pipelines with Customs Transformers in Python](https://towardsdatascience.com/custom-transformers-and-ml-data-pipelines-with-python-20ea2a7adb65)
 * [Andrew Lukyanenko's Kaggle kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-model-interpretation)
 * [Scikit-Learn Documentation](https://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html)
+* [Feature selection or model tuning: which goes first?](https://stats.stackexchange.com/questions/264533/how-should-feature-selection-and-hyperparameter-optimization-be-ordered-in-the-m)
