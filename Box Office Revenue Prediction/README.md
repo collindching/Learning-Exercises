@@ -31,22 +31,23 @@ This project ended up taking me much longer than I intended (for a practice exer
 * 2x60 min (Aug 20)
 * 6x30 min (Aug 21)
 * 3x60 min (Aug 22)
+* 1x60 min, 2x90 min (Aug 29)
 
 ## Things learned
 
 * Outlier analysis
 * Data cleaning (for exploration) vs. data preprocessing (for modeling)
 * Building transformers and Pipelines with Scikit-Learn
+* Feature selection using Random Forests
 * Apply with anonymous function
 * List comprehensions
 * Conditional expressions
 
-## Things to do better for next time
+## Things to for the next project
 
-* I spent a lot of time processing the data but not exploring it; allocate more time to exploration
-* Separate the data preparation step from the data processing step -- this will eliminate confusion as you write more code
-* Analyze outliers with scatterplots, and decide whether to remove individual observations
-* Be more creative with Pipeline usage
+* Allocate more time to exploration, upfront
+* Separate the data cleaning step (exploration) from data processing step (modeling)
+* Analyze outliers through scatterplots to decide to remove individual observations
 
 ## References
 
