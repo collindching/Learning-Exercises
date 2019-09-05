@@ -1,8 +1,8 @@
 This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. I'll be building a regression model for box office revenues using movie data from The Movie Database. 
 
-One of the key things I wanted to practice in this project was how to process data using custom transformers and Scikit-Learn Pipelines. This actually ended up taking a pretty long time to test code. The data preprocessing step actually felt more like programming and coding than machine learning, and I spent a lot of time debugging. 
+I wanted to practice processing data using custom transformers and Scikit-Learn Pipelines. This took way longer than I anticipated, and was very coding heavy. 
 
-This project ended up taking me much longer than I intended (for a practice exercise). Since I've done a majority of the processing, I'm going to shelve it for now. I'd love to come back in the future and try to finish this up though. 
+This project ended up taking me much longer than I intended. I've finished pretty much everything I wanted to practice. If I were to return to this to improve model performance, I'd focus on feature engineering, feature selection, and introducing external data.
 
 ## Learning goals
 
@@ -19,11 +19,12 @@ This project ended up taking me much longer than I intended (for a practice exer
 * List comprehensions
 * Conditional expressions
 
-## Things to for the next project
+## Things to improve on in future projects
 
-* Allocate more time to exploration, upfront
+* Allocate more time upfront to exploration
+* Analyze outliers with scatterplots, decide to remove or not
 * Separate the data cleaning step (exploration) from data processing step (modeling)
-* Analyze outliers through scatterplots to decide to remove individual observations
+* Use `sklearn.feature_selection` module to speed up feature selection process
 
 ## References
 
