@@ -1,6 +1,4 @@
-These are my mini-projects: tutorials and small-scale exercises intended for learning specific tools and algorithms. Within each repo, I explain the learning objectives for each project.
-
-These projects should require a smaller time commitment and research phase than my typical projects, and are intended for gaining familiarity with specific techniques. I may evolve some into larger projects if they're interesting enough.
+These are tutorials and short exercises for learning specific tools and algorithms. Within each repo, I explain the learning objectives for each project.
 
 ## Mini-projects
 
