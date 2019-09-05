@@ -5,8 +5,9 @@ These projects should require a smaller time commitment and research phase than 
 ## Mini-projects
 
 * **Box Office Revenue Prediction:** a regression project using data from The Movie Database 	
-	* Practice ML workflow
+	* ML workflow
 	* Processing data with custom transformers + Scikit-Learn Pipelines
+	* Using random forests for feature selection
 * **SF Gate Home Price Prediction:** regression project based on data scraped from SF Gate
 	* Practice ML workflow 
 	* Analysis of outliers (basic critical thinking)
