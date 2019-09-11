@@ -1,8 +1,8 @@
-This is an exercise to reinforce what I've learned in chapter 2 of Hands-On ML. I'll be building a regression model for box office revenues using movie data from The Movie Database. 
+In this exercise, I build a regression model in Jupyter Notebook to predict box office revenues using data on movies from The Movie Database.
 
-I wanted to practice processing data using custom transformers and Scikit-Learn Pipelines. This took way longer than I anticipated, and was very coding heavy. 
+I use Scikit-Learn Pipelines to clean the data and quickly evaluate 8 regression models. I use a Random Forest for my final model. For feature selection, I use a variable selection procedure based on [this paper](https://www.csie.ntu.edu.tw/~b88052/tmp/vietri.pdf) by the Biometrics Research Department at Merck & Co which improved both model error and interpretability, and reduced model features by more than 66%.
 
-This project ended up taking me much longer than I intended. I've finished pretty much everything I wanted to practice. If I were to return to this to improve model performance, I'd focus on feature engineering, feature selection, and introducing external data.
+The primary goal of this project was to practice processing data using custom transformers and Scikit-Learn Pipelines. I spent longer than I intended on this, but learned a lot about feature selection as well. If I were to return to this project to improve model performance, I'd focus further on external data, feature engineering, and feature selection.
 
 ## Learning goals
 
