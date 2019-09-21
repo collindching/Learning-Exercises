@@ -4,6 +4,14 @@ I use Scikit-Learn Pipelines to clean the data and quickly evaluate 8 regression
 
 The primary goal of this project was to practice processing data using custom transformers and Scikit-Learn Pipelines. I spent longer than I intended on this, but learned a lot about feature selection as well. If I were to return to this project to improve model performance, I'd focus further on external data, feature engineering, and feature selection.
 
+## How to run this project
+
+1. Download `Regression Model.ipynb`. Then download the data for the project from [here](https://www.kaggle.com/c/tmdb-box-office-prediction/data). 
+2. Place it in the same directory as the Jupyter Notebook
+3. In the notebook, change the file path in `pd.read_csv()` your preferred data name
+4. You should be able to work through the entire notebook
+5. If you run into issues or have questions, log an issue and I'll get back to you ASAP
+
 ## Learning goals
 
 * [x] Practice Python ML workflow
